@@ -1,24 +1,96 @@
-<h1 align="center">Hi 👋, I'm Jeremy Yong</h1>
-<h3 align="center">A passionate Java backend developer from Malaysia</h3>
+<!-- ═══════════════════════  B O O T   S E Q U E N C E  ═══════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jy714&label=Profile%20views&color=0e75b6&style=flat" alt="jy714" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://jy714-portfolio.netlify.app/](https://jy714-portfolio.netlify.app/)
-
-- 📫 How to reach me **yongjeremy0714@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremy-yong0714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeremy-yong0714/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yongjeremy0714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yongjeremy0714" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/yongjeremy0714/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/yongjeremy0714/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b2ff7,100:00fff9&height=220&section=header&text=JEREMY%20YONG&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%3E%3E%20NETRUNNER%20%2F%2F%20JAVA%20BACKEND%20ENGINEER&descAlignY=58&descSize=16&animation=twinkling" alt="JEREMY YONG" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&width=640&lines=%3E+jacking+into+the+mainframe...;%3E+compiling+Spring+Boot+microservices...;%3E+location%3A+Malaysia+%2F%2F+Night+City+Node;%3E+status%3A+ONLINE+%E2%96%88" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jy714&show_icons=true&locale=en&layout=compact" alt="jy714" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jy714&label=SIGNAL%20INTERCEPTS&color=ff00ff&style=for-the-badge&labelColor=0d0221" alt="profile views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff9?style=for-the-badge&labelColor=0d0221" alt="status" />
+  <img src="https://img.shields.io/badge/CLASS-NETRUNNER-f9f002?style=for-the-badge&labelColor=0d0221" alt="class" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jy714&show_icons=true&locale=en" alt="jy714" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jy714&" alt="jy714" /></p>
+## `> whoami`
+
+```bash
+┌──(jeremy㉿night-city)-[~]
+└─$ cat ./identity.dat
+
+  HANDLE      :: jy714
+  NAME        :: Jeremy Yong
+  ROLE        :: Java Backend Developer
+  ORIGIN      :: Malaysia 🇲🇾
+  SPECIALTY   :: APIs · Microservices · Databases · Cloud
+  CYBERWARE   :: Spring Boot neural-link, Docker containment pods
+  DIRECTIVE   :: Build systems that never go dark.
+```
+
+> ⚡ *"The street finds its own uses for things."* — and I find mine for clean, scalable backends.
+
+---
+
+## `> ls ./uplinks`
+
+<p align="left">
+  <a href="https://jy714-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ACCESS_DATABANK-ff00ff?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d0221" alt="portfolio" /></a>
+  <a href="mailto:yongjeremy0714@gmail.com"><img src="https://img.shields.io/badge/COMMS-yongjeremy0714@gmail.com-00fff9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" alt="email" /></a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeremy-yong0714/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/yongjeremy0714" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0d0221?style=for-the-badge&logo=hackerrank&logoColor=00ff9f" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/yongjeremy0714/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0d0221?style=for-the-badge&logo=leetcode&logoColor=f9f002" alt="LeetCode" /></a>
+</p>
+
+---
+
+## `> ./load_arsenal.sh`
+
+```diff
++ [CORE IMPLANTS]      Java · Spring Boot · Python · JavaScript
++ [DATA VAULTS]        MySQL · MongoDB · Redis · Firebase
++ [INFRASTRUCTURE]     AWS · Docker · Linux · Git
+! [FRONTEND OPTICS]    React · Node.js · Express · Tailwind · HTML · CSS
+- [TOOLS]              Postman · Figma
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,express,react,tailwind,html,css&theme=dark" alt="languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,aws,docker,linux,git,postman,figma&theme=dark" alt="tools" />
+</p>
+
+---
+
+## `> ./scan_neural_activity --verbose`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jy714&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00ff&icon_color=00fff9&text_color=e0e0e0&locale=en" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=jy714&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00ff&text_color=e0e0e0&locale=en" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jy714&theme=radical&hide_border=true&background=0d0221&ring=ff00ff&fire=00fff9&currStreakLabel=00fff9" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jy714&bg_color=0d0221&color=00fff9&line=ff00ff&point=f9f002&area=true&area_color=ff00ff&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <code>[ CONNECTION SECURE ]</code> &nbsp;·&nbsp; <code>[ END OF TRANSMISSION ]</code> &nbsp;·&nbsp; <code>[ WAKE UP, SAMURAI ]</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,50:7b2ff7,100:ff00ff&height=120&section=footer" alt="footer" width="100%" />
+</p>
