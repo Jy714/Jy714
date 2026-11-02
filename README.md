@@ -1,96 +1,130 @@
-<!-- ═══════════════════════  B O O T   S E Q U E N C E  ═══════════════════════ -->
+<!-- 🌲  Somewhere in the Woods — matches https://jy714-portfolio.netlify.app  🌲 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b2ff7,100:00fff9&height=220&section=header&text=JEREMY%20YONG&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%3E%3E%20NETRUNNER%20%2F%2F%20JAVA%20BACKEND%20ENGINEER&descAlignY=58&descSize=16&animation=twinkling" alt="JEREMY YONG" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4cdca,55:a9b6b4,100:2f4a3a&height=230&section=header&text=Somewhere%20in%20the%20Woods&fontSize=52&fontColor=efe8d6&fontAlignY=36&desc=Jeremy%20Yong%20%C2%B7%20a%20little%20corner%20of%20the%20internet%20where%20I%20build%2C%20learn%2C%20and%20explore&descSize=16&descAlignY=56&descColor=efe8d6&animation=fadeIn" alt="Somewhere in the Woods" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&width=640&lines=%3E+jacking+into+the+mainframe...;%3E+compiling+Spring+Boot+microservices...;%3E+location%3A+Malaysia+%2F%2F+Night+City+Node;%3E+status%3A+ONLINE+%E2%96%88" alt="Typing SVG" />
+  <a href="https://jy714-portfolio.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=3200&pause=900&color=5F7A4A&center=true&vCenter=true&width=620&lines=Build.+Fail.+Learn.+Repeat.;the+lights+are+on+and+the+door's+open+a+crack...;step+inside+%E2%80%94+there's+a+letter+on+the+table" alt="Build. Fail. Learn. Repeat." />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jy714&label=SIGNAL%20INTERCEPTS&color=ff00ff&style=for-the-badge&labelColor=0d0221" alt="profile views" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff9?style=for-the-badge&labelColor=0d0221" alt="status" />
-  <img src="https://img.shields.io/badge/CLASS-NETRUNNER-f9f002?style=for-the-badge&labelColor=0d0221" alt="class" />
+  <a href="https://jy714-portfolio.netlify.app/"><img src="https://img.shields.io/badge/walk_the_trail-portfolio-7a5a3f?style=flat-square&labelColor=2f4a3a&logo=netlify&logoColor=efe8d6" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-yong-61a68229a/"><img src="https://img.shields.io/badge/LinkedIn-Jeremy_Yong-5f7a4a?style=flat-square&labelColor=2f4a3a&logo=linkedin&logoColor=efe8d6" alt="LinkedIn" /></a>
+  <a href="mailto:yongjeremy0714@gmail.com"><img src="https://img.shields.io/badge/leave_a_letter-yongjeremy0714@gmail.com-b0643a?style=flat-square&labelColor=2f4a3a&logo=gmail&logoColor=efe8d6" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jy714&label=visitors%20to%20the%20woods&color=8fa088&style=flat-square&labelColor=2f4a3a" alt="Profile views" />
 </p>
 
----
+<p align="center">🌲 &nbsp; 🌲 &nbsp; 🏡 &nbsp; 🌲 &nbsp; 🌲 &nbsp; 🌲</p>
 
-## `> whoami`
+<sub><i>inside the cabin</i></sub>
 
-```bash
-┌──(jeremy㉿night-city)-[~]
-└─$ cat ./identity.dat
+## Who lives here
 
-  HANDLE      :: jy714
-  NAME        :: Jeremy Yong
-  ROLE        :: Java Backend Developer
-  ORIGIN      :: Malaysia 🇲🇾
-  SPECIALTY   :: APIs · Microservices · Databases · Cloud
-  CYBERWARE   :: Spring Boot neural-link, Docker containment pods
-  DIRECTIVE   :: Build systems that never go dark.
-```
+Hi, I'm **Jeremy** — a full-stack developer studying Computer Science with Artificial Intelligence at the University of Nottingham Malaysia.
 
-> ⚡ *"The street finds its own uses for things."* — and I find mine for clean, scalable backends.
+I've got a real passion for coding and for AI, and I'm always looking for chances to sharpen my skills. I learn best by building: front ends, back ends, and lately the cloud they run on. My progress isn't always fast, but I don't stop.
 
----
+| | |
+|---|---|
+| 📚 **Studying** | Computer Science with AI, University of Nottingham Malaysia |
+| 🛠️ **Working** | Site Reliability Engineer — Ant International |
+| 🪵 **Building** | More and more interesting projects coming soon! |
+| 🌱 **Learning** | Cloud architecture on AWS, SRE-related skills, more… |
 
-## `> ls ./uplinks`
+<br/>
 
-<p align="left">
-  <a href="https://jy714-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ACCESS_DATABANK-ff00ff?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d0221" alt="portfolio" /></a>
-  <a href="mailto:yongjeremy0714@gmail.com"><img src="https://img.shields.io/badge/COMMS-yongjeremy0714@gmail.com-00fff9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" alt="email" /></a>
-</p>
+<sub><i>where the signpost points</i></sub>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jeremy-yong0714/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/yongjeremy0714" target="_blank"><img src="https://img.shields.io/badge/HackerRank-0d0221?style=for-the-badge&logo=hackerrank&logoColor=00ff9f" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/u/yongjeremy0714/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-0d0221?style=for-the-badge&logo=leetcode&logoColor=f9f002" alt="LeetCode" /></a>
-</p>
+## Things I have built
 
----
+| | Project | What it is | Made with |
+|:---:|---|---|---|
+| `2026` | **[Makan Apa](https://github.com/Jy714/Makan_Apa)** | *"What should we eat?"* — finds food near you and lets a roulette wheel pick. No backend, no database, no accounts, no tracking. | TypeScript · React · Leaflet · Tailwind · Geoapify |
+| `2026` | **[HA 3-tier architecture on AWS](https://github.com/Jy714/aws-3-tier-architecture)** | Two AZs in a custom VPC: Route 53 + CloudFront + WAF at the edge, load-balanced tiers in Auto Scaling groups, Multi-AZ RDS with no route to the internet. | AWS · VPC · EC2 · ALB · RDS · CloudFront |
+| `2025` | **[Expenses Claim App](https://github.com/Jy714/Expenses-Claim-App)** | Submit and manage expense claims, with a dashboard-style front end and a Java back end. | React · TypeScript · Tailwind · Spring Boot |
+| `2025` | **[JA Room](https://github.com/Jy714/JA_Room)** | Two front ends — a CRM admin system and a mobile app — sharing one Java back end. | Vue · TypeScript · Java |
+| `2024` | **[J Concept](https://github.com/Jy714/J_Concept)** | An online store: customer site, admin panel and Express API, with JWT auth, Cloudinary uploads, Stripe and Razorpay payments. | React · Node.js · Express · MongoDB |
+| `2024` | **[JA Delivery](https://github.com/Jy714/JA-Delivery)** | The back end of a food-delivery platform: orders, menus and accounts, JWT auth, Aliyun OSS storage and Excel reports. | Java · Spring Boot · MyBatis · MySQL |
 
-## `> ./load_arsenal.sh`
+<br/>
 
-```diff
-+ [CORE IMPLANTS]      Java · Spring Boot · Python · JavaScript
-+ [DATA VAULTS]        MySQL · MongoDB · Redis · Firebase
-+ [INFRASTRUCTURE]     AWS · Docker · Linux · Git
-! [FRONTEND OPTICS]    React · Node.js · Express · Tailwind · HTML · CSS
-- [TOOLS]              Postman · Figma
-```
+<sub><i>on the writing desk</i></sub>
+
+## Tools on the desk
+
+**Front end** — <i>always on the desk</i>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,ts,tailwind,vue&theme=light" alt="Front end" />
+
+**Back end** — <i>in the drawer</i>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,nodejs,express,mongodb&theme=light" alt="Back end" />
+
+**Tools & cloud** — <i>on the shelf</i>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,aws,githubactions,kubernetes,docker,prometheus,grafana&theme=light" alt="Tools and cloud" />
+
+<br/>
+
+<sub><i>under the castle stars</i></sub>
+
+## The Castle of DevOps
+
+> *Every skill is a new light. Every project strengthens the foundation. The journey is still unfolding.*
+
+🌕 lit &nbsp;·&nbsp; 🌓 learning &nbsp;·&nbsp; 🌑 still dark
+
+| Path | Stars |
+|---|---|
+| Fundamentals | 🌕 SSH &nbsp; 🌓 Linux &nbsp; 🌓 Networking |
+| Version control | 🌕 Git &nbsp; 🌕 GitHub |
+| Containers & orchestration | 🌓 Docker &nbsp; 🌓 Kubernetes &nbsp; 🌑 Helm &nbsp; 🌑 Amazon EKS |
+| Cloud infrastructure | 🌓 AWS &nbsp; 🌓 VPC & networking &nbsp; 🌓 IAM |
+| CI/CD | 🌓 GitHub Actions &nbsp; 🌑 Jenkins |
+| Automation | 🌓 Python &nbsp; 🌓 Bash |
+| Infrastructure as code | 🌑 Terraform &nbsp; 🌑 Ansible |
+| Observability & logging | 🌑 Prometheus &nbsp; 🌑 Grafana &nbsp; 🌑 ELK Stack |
+| Reliability engineering | 🌓 SRE fundamentals |
+
+<br/>
+
+<sub><i>left on an old stump</i></sub>
+
+## Notes from the trail
+
+- **Oct 2026 · Moving into the woods** — Rebuilt my portfolio as a forest: hand-drawn cards standing in a 3D world, and a trail you walk by scrolling.
+- **Oct 2026 · Learning the cloud by hand** — Built a highly available 3-tier architecture on AWS through the Console, one subnet and security group at a time. Rebuilding it as Terraform is next.
+- **2026 · Makan Apa** — Shipped a tiny tool for a very real problem: deciding what to eat. Sometimes the best server is no server.
+- **2024 · Build. Fail. Learn. Repeat.** — Put up my first portfolio and started building as many projects as I could. Still going.
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,express,react,tailwind,html,css&theme=dark" alt="languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,aws,docker,linux,git,postman,figma&theme=dark" alt="tools" />
-</p>
-
----
-
-## `> ./scan_neural_activity --verbose`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jy714&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00ff&icon_color=00fff9&text_color=e0e0e0&locale=en" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=jy714&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=ff00ff&text_color=e0e0e0&locale=en" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jy714&show_icons=true&hide_border=true&bg_color=efe8d6&title_color=2f4a3a&icon_color=b0643a&text_color=2a2c24&ring_color=5f7a4a&custom_title=Footprints%20on%20the%20trail&locale=en" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=jy714&layout=compact&hide_border=true&bg_color=efe8d6&title_color=2f4a3a&text_color=2a2c24&custom_title=Most%20used%20tools&locale=en" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jy714&theme=radical&hide_border=true&background=0d0221&ring=ff00ff&fire=00fff9&currStreakLabel=00fff9" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=jy714&hide_border=true&background=efe8d6&ring=5f7a4a&fire=e2a54a&currStreakNum=2a2c24&currStreakLabel=2f4a3a&sideNums=2a2c24&sideLabels=2f4a3a&dates=4a4c40&stroke=cfc3a6" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jy714&bg_color=0d0221&color=00fff9&line=ff00ff&point=f9f002&area=true&area_color=ff00ff&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jy714&bg_color=efe8d6&color=2f4a3a&title_color=2f4a3a&line=5f7a4a&point=b0643a&area=true&area_color=8fa088&hide_border=true&custom_title=A%20year%20of%20walking" alt="Activity graph" />
 </p>
 
----
+<br/>
+
+<sub><i>by the mailbox</i></sub>
+
+## Leave a letter
+
+Open to work, projects and a good chat about code or AI. Letters are answered within a few days — **[yongjeremy0714@gmail.com](mailto:yongjeremy0714@gmail.com)** ✉️
+
+Or come for a walk: **[jy714-portfolio.netlify.app](https://jy714-portfolio.netlify.app/)** 🌲
 
 <p align="center">
-  <code>[ CONNECTION SECURE ]</code> &nbsp;·&nbsp; <code>[ END OF TRANSMISSION ]</code> &nbsp;·&nbsp; <code>[ WAKE UP, SAMURAI ]</code>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff9,50:7b2ff7,100:ff00ff&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f4a3a,45:5f7a4a,100:a9b6b4&height=120&section=footer" alt="" width="100%" />
 </p>
